@@ -32,3 +32,7 @@ The project in its entirety is relatively concise, and not too visually noisy. T
 Since the readability and “choose your own level of information” format are defining characteristics of this website, the project is definitely geared towards a general audience. Samora expects an averagely informed reader, so there is no heavy jargon nor a long length of attention span required. The main message of the project can be easily understood with little time spent on the site, making data more easily accessible to the average viewer. There is a lack of historical scholarship, while the source (NYT) is credible, it is by no means a peer reviewed journal. Although this is not surprising given The Pudding is a “for the people, by the people” driven organization. 
 
 Overall, the visualization was interesting, straightforward, and a creative way to demonstrate a century of media coverage in a digestible format. I really enjoyed diving into this project.
+
+
+
+[← Back to portfolio](portfolio.html)
